@@ -16,6 +16,7 @@ PANGRAM PROGRAM WITH OUTPUT:
 
 ReverseSentence with OUTPUT:
 
-![Screenshot (1707)](https://github.com/shruti2222K/JAVA-PROGRAMS/assets/145823175/d3ec969e-4598-4032-ba12-7d55af93f8be)
+![Screenshot (1727)](https://github.com/shruti2222K/JAVA-PROGRAMS/assets/145823175/a94c8c28-3dc5-4691-b608-d6da06a55342)
+
 
 
