@@ -1,2 +1,3 @@
 # JAVA-PROGRAMS
 JAVA AND JAVASCRIPT PROGRAMS
+![Screenshot (1703)](https://github.com/shruti2222K/JAVA-PROGRAMS/assets/145823175/4d5a818c-8ed1-4ead-8fb2-28111f962b37)
